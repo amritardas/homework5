@@ -234,7 +234,7 @@ header{
   body {
     background: transparent;
   }
-  .pricing {
+  .card {
     align-self: flex-start;
   }
   .gallery {
